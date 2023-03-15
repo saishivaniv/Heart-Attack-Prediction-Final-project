@@ -2,8 +2,8 @@ EBEON1022382985-EON-DATA-ANLAYST-FINAL-PROJECT-EDUBRIGE
 # Heart-Attack-Prediction-Final-project
 
   NAME : SAI SHIVANI VILASAGARAM
-  BATCH:8161-EON Advanced Certification Program in Data Analytics 
-  Enrollment Number :EBEON1022382985
+  BATCH:8161-EON Advanced Certification Program in Data Analytics
+   Enrollment Number :EBEON1022382985
   
 # PROJECT ABSTRACT:
 
