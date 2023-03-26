@@ -29,8 +29,6 @@ Model Selection
 
 Model Training
 
-Model Deployment
-
 # CONCLUSION:
 
 Our Logistic Regression algorithm yields the highest accuracy, 85%. Any accuracy above 70% is considered good, but be careful because if your accuracy is extremly high, it may be too good to be true (an example of Overfitting). Thus, 85% is the ideal accuracy!
