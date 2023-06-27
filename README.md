@@ -19,16 +19,12 @@ It is using in kaggle data set = https://www.kaggle.com/datasets/pritsheta/heart
 
 # PROCESS:
 
-Data preprocessing
-
-Data Analysis
-
-Data Visualization
-
-Model Selection
-
-Model Training
+- Data preprocessing
+- Data Analysis
+- Data Visualization
+- Model Selection
+- Model Training
 
 # CONCLUSION:
 
-Our Logistic Regression algorithm yields the highest accuracy, 85%. Any accuracy above 70% is considered good, but be careful because if your accuracy is extremly high, it may be too good to be true (an example of Overfitting). Thus, 85% is the ideal accuracy!
+Our Logistic Regression algorithm yields the highest accuracy, 85%. Any accuracy above 70% is considered good, but be careful because if your accuracy is extremely high, it may be too good to be true (an example of Overfitting). Thus, 85% is the ideal accuracy!
