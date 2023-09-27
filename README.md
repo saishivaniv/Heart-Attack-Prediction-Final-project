@@ -26,3 +26,5 @@ Anaconda(jupyter) Notebook is best tool, which have many type of library, header
 ## CONCLUSION:
 
 Our Logistic Regression algorithm yields the highest accuracy, 85%. Any accuracy above 70% is considered good, but be careful because if your accuracy is extremely high, it may be too good to be true (an example of Overfitting). Thus, 85% is the ideal accuracy!
+
+#python 
